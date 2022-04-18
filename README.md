@@ -31,3 +31,6 @@ A foliar fungal disease that affects maize, also known as corn. GLS is considere
 ## Head smut
 
 A fungal disease of corn plants that is caused by the pathogen Sphacelotheca reiliana. It is a systemic disease that can infect a plant as a seed but the symptoms do not appear until the plant is in its flowering and fruiting stages.
+
+
+The data used can be found here: https://drive.google.com/drive/u/0/folders/1ZN10fE_EiETKviM-TOGfpMYGb0JDxwd9
