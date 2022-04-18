@@ -8,7 +8,7 @@ A repository containing a model used to predict if a maize has a disease and the
 ## Business Problem
 Maize is a basic ingredient in many regions across the world. In addition to being consumed directly by humans, maize is also used for corn ethanol, animal feed and other maize products, such as corn starch and corn syrup. Maize plant diseases are a major problem in plant growth. Farmers should take the utmost care to detect the diseases of the plant. Plant age, pathogen species, and environment all play a role in symptom expression. The diseases are more common in humid, warm climates. Without early detection, these diseases spread rapidly, wiping out entire maize fields and severely impact  food security. By creating an accurate image recognition model through machine learning, we aim to help the farmer to detect the diseases affecting maize plants in order to mitigate the damage. 
 
-###Common types of maize disease:
+### Common types of maize disease:
 #### Northern leaf blight
 A foliar disease of maize with its key characteristic being cigar-shaped lesions
 #### Common rust
@@ -28,7 +28,7 @@ A fungal disease of corn plants that is caused by the pathogen Sphacelotheca rei
 The data used can be found here: https://drive.google.com/drive/u/0/folders/1ZN10fE_EiETKviM-TOGfpMYGb0JDxwd9
 
 ##Setup/Installation Requirements
-Use Google Colab or Jupyter Notebook for data preparation and analysis. Import pandas and Numpy libraries for data manipulation. Loading datasets and previewing datasets. Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
+Use Google Colab or Jupyter Notebook for data preparation and analysis. Import tensorflow libraries for data manipulation. Loading datasets and previewing datasets. Cleaning data; Building the model, Training the model and testing it.
 
 ## Known Bugs
 No known bugs. 
